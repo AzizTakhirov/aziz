@@ -1,3 +1,4 @@
+theme = "hyde"
 name = "Hyde"
 license = "MIT"
 licenselink = "https://github.com/spf13/hyde/blob/master/LICENSE.md"
